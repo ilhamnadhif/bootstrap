@@ -1,0 +1,26 @@
+body{
+    background-color: #212529;
+}
+
+.navbar{
+    background-color: #343a40;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+}
+#about{
+    margin-top: 100px;
+}
+
+#projects{
+    margin-top: 100px;
+}
+
+#contact{
+    margin-top: 100px;
+}
+
+footer{
+    background-color: #343a40;
+}

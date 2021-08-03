@@ -1,0 +1,23 @@
+:root {
+  --yellow: #ffed4b;
+}
+.navbar {
+  background-color: var(--yellow);
+  height: 80px;
+}
+
+.hero .row {
+  color: #474747;
+  margin-top: 150px;
+}
+.hero .row h2 {
+  letter-spacing: 2px;
+}
+.hero .row button {
+  background-color: var(--yellow);
+}
+/* @media screen and (max-width: 992px) {
+  .navbar-collapse {
+    background-color: var(--yellow);
+  }
+} */
